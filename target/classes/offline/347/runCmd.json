@@ -1,0 +1,1 @@
+{"shellAction":"runCmd","result":{"msg":"desktop-gpuant1\\mai\r\n","status":"success"},"params":{"path":"D:/phpstudy_pro/WWW/","cmd":"cd /d \"D:\\phpstudy_pro\\WWW\\\"&whoami"},"shellId":347,"target":"http://127.0.0.1/shell.php"}
